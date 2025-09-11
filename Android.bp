@@ -27,7 +27,7 @@ license {
         "legacy_permissive",
         "legacy_unencumbered",
     ],
-    license_text: ["common/NOTICE_FILES/*.txt"],
+    license_text: ["common/NOTICE_FILES/**/*"],
 }
 
 prebuilt_etc {
